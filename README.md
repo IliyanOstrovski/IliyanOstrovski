@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Iliyan from Sofia,Bulgaria 🇧🇬</h1>
-- 🔭 I’m currently working as a [Software Engineer at](https://bul-si.bg/home)
+<h3 align="center">I'm Iliyan from Sofia, Bulgaria 🇧🇬</h3>
 
+- 🔭 I’m currently working as a Software Engineer at [BUL-SI](https://bul-si.bg/home)
 - 📫 How to reach me, send email of **iliyyaniordanov@gmail.com**
 
 - 📄 Know about my experiences at [https://www.linkedin.com/in/iliyan-ostrovski/](https://www.linkedin.com/in/iliyan-ostrovski/)
