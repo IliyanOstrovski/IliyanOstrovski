@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 Hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 <h3 align="center">I'm Iliyan from Sofia, Bulgaria 🇧🇬</h3>
 
 - 🔭 I’m currently working as a Software Engineer at [BUL-SI](https://bul-si.bg/home)
